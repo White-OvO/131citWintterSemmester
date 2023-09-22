@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/chrisGGf/Desktop/csn/winter2023/cit131",
+      "program": "/Users/chrisGGf/Desktop/csn/winter2023/cit131/build/Debug/outDebug"
+    }
+  ]
+}
