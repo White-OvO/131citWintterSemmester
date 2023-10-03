@@ -1,4 +1,12 @@
+/*
+LEAP YEAR CALDENDER SECOND METHOD
 
+
+
+
+
+
+*/
 // #include <stdio.h>
 
 // // Define the value of each coin type in cents
@@ -150,7 +158,45 @@ around the sun. To account for the difference in time, every 4 years, a leap yea
 //    else {
 //       printf("%d - not a leap year\n", inputYear);
 //    }
+   /* 
+   OUTPUTS : 
+
+Input
+1954
+
+
+Your output
+1954 - not a leap year
+
+
+
+
+
+2:
+Compare output
+
+Input
+2016
+Your output
+2016 - leap year
+3:Compare output
+
+
+Input
+1600
+Your output
+1600 - leap year
+4:Compare output
+
+
+Input
+1900
+Your output
+1900 - not a leap year
+
+
    
+   */
 
 
 
