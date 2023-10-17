@@ -17,7 +17,7 @@ Note: The above algorithm outputs the 0's and 1's in reverse order.
 
 Ex: If the input is:
 
-6
+
 the output is:
 
 011
